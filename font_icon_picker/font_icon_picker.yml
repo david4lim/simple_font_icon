@@ -1,0 +1,6 @@
+name: Font Icon Picker
+description: Provides a form element and a field widget with a font icon picker.
+package: Font Icon
+
+type: module
+core: 8.x
