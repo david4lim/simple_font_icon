@@ -1,0 +1,6 @@
+name: Simple Font Icon
+description: Simplifies administration and rendering of font icons in Drupal.
+package: Font Icon
+
+type: module
+core: 8.x
